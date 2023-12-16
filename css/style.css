@@ -1,3 +1,33 @@
 .bodybg{
-    background-color: pink;
+    background-color: #fadef8;
 }
+
+.menuopt {
+    font-size: 24px;
+    width: 200px;
+    transition: all 0.4s;
+  }
+  .menuopt span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.4s;
+    color:black;
+  }
+  .menuopt span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  .menuopt:hover span {
+    padding-right: 25px;
+    color:gray;
+  }
+  .menuopt:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+  
