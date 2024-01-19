@@ -1,6 +1,6 @@
 .bodybg {
   background-color: #fadef8;
-  height: 90vh;
+  height: calc(100vh - 58px);
 }
 
 .menuopt {
