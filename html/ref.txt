@@ -1,0 +1,10 @@
+background stars
+https://codepen.io/riley-pearce/pen/OJWPjZM
+
+print resume
+https://codepen.io/team/css-tricks/pen/xxPORam <- direct link
+https://css-tricks.com/css-link-hover-effects/ <- website w multiple effects
+
+menu options// go back
+https://codepen.io/Christaelrod/pen/VwYMoKb <- direct link
+https://www.proglobalbusinesssolutions.com/css-hover-effects/ <- website w multiple effects
