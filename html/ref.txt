@@ -8,3 +8,6 @@ https://css-tricks.com/css-link-hover-effects/ <- website w multiple effects
 menu options// go back
 https://codepen.io/Christaelrod/pen/VwYMoKb <- direct link
 https://www.proglobalbusinesssolutions.com/css-hover-effects/ <- website w multiple effects
+
+resume work experience
+https://templateflip.com/templates/material-resume/ <- direct link
